@@ -26,7 +26,7 @@ is.character() | asks whether what is inside parentheses is a character, returns
 as.character() | turns what is inside the parentheses into a character  
 a = c(1, 2, 3)  
 b = c("table", "pencil", "desk")  
-frame = data.frame(a,b) | combines the two concatenations  
+frame = data.frame(a, b) | combines the two concatenations  
 dim(frame) | displays dimensions (in this case: 3 rows, 2 columns)  
 nrow(frame) | displays # of rows  
 ncol(frame) | displays # of columns  
