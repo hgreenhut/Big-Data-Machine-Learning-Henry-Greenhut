@@ -1,5 +1,5 @@
 # I learned:
-X - explanatory variable (training data)
+X - explanatory variable (training data)  
 Y - response variable (target)
 
 Supervised learning - the explanatory variables (x) and the response variable (y) are predetermined
