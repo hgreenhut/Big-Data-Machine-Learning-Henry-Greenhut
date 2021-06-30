@@ -33,7 +33,7 @@ ncol(frame) | displays # of columns
 cbind() | column bind, # of rows match  
 rbind() | row bind, # of columns match  
 **Make sure dimensions line up when using cbind() & rbind()**  
-frame$newCol = c(4, 5, 6)
+frame$newCol = c(4, 5, 6) | adds new data to data frame
 
 ### Day 2 R
 runif(n = 10, min = 1, max = 3.5) | runif = "randon uniform variable"  
