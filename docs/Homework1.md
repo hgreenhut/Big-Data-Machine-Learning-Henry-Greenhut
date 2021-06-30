@@ -31,7 +31,7 @@ dim(frame) | displays dimensions (in this case: 3 rows, 2 columns)
 nrow(frame) | displays # of rows  
 ncol(frame) | displays # of columns  
 cbind() | column bind, # of rows match  
-rbind() | row bind, # of columns math  
+rbind() | row bind, # of columns match  
 **Make sure dimensions line up when using cbind() & rbind()**
 frame$newCol = c(4, 5, 6)
 
