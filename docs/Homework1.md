@@ -37,22 +37,17 @@ rbind() | row bind, # of columns math
 frame$newCol = c(4, 5, 6)
 
 ### Day 2 R
-runif(n = 10, min = 1, max = 3.5) | runif = "randon uniform variable"
-If min and max are not specific, 0 and 1 are used
-hist() | creates histogram
-par(mfrow=c(2,3)) | par() = partitioning plots, mfrow() = dimensions
-for (N in c(1, 5, 10)){
-  show(N)
-  } | For loop, this would display "1, 5, 10"
-sqrt() | square root
-saveGIF() | saves code as GIF
-1e2 | 1 * 10^2
-seq() | sequence
-plot() | plots data on graph
-which(x == y) | which of x is equal to y
-set.seed(any #) | allows for reproducibility of random numbers
-
-
-
-
-
+runif(n = 10, min = 1, max = 3.5) | runif = "randon uniform variable"  
+If min and max are not specific, 0 and 1 are used  
+hist() | creates histogram  
+par(mfrow=c(2,3)) | par() = partitioning plots, mfrow() = dimensions  
+for (N in c(1, 5, 10)){  
+  show(N)  
+  } | For loop, this would display "1, 5, 10"  
+sqrt() | square root  
+saveGIF() | saves code as GIF  
+1e2 | 1 * 10^2  
+seq() | sequence  
+plot() | plots data on graph  
+which(x == y) | which of x is equal to y  
+set.seed(any #) | allows for reproducibility of random numbers  
