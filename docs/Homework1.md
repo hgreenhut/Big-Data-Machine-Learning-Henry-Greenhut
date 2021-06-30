@@ -32,7 +32,7 @@ nrow(frame) | displays # of rows
 ncol(frame) | displays # of columns  
 cbind() | column bind, # of rows match  
 rbind() | row bind, # of columns match  
-**Make sure dimensions line up when using cbind() & rbind()**
+**Make sure dimensions line up when using cbind() & rbind()**  
 frame$newCol = c(4, 5, 6)
 
 ### Day 2 R
